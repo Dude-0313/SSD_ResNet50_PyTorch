@@ -4,7 +4,7 @@
 
 This is a PyTorch **SSD-Resnet50** implementation based on the GitHub post from Viet Nguyen. The implementation has been modified to support a Custom dataset in CoCo format and to support newer versions of pycocotools.
 
-The dataset used is the Blood Cell dataset from Kaggle (https://www.kaggle.com/datasets/paultimothymooney/blood-cells). The dataset has 3 classes (WBC,RBC and Platelets). The dataset has the below structure :
+The dataset used is the Blood Cell dataset from Kaggle (https://www.kaggle.com/datasets/paultimothymooney/blood-cells). The dataset has 3 classes (WBC,RBC and Platelets). The dataset has below structure :
 
 customcoco_dataset  
   |  
